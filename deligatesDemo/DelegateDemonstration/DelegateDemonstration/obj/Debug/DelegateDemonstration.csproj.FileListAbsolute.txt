@@ -1,0 +1,8 @@
+D:\deligatesDemo\DelegateDemonstration\DelegateDemonstration\bin\Debug\DelegateDemonstration.exe.config
+D:\deligatesDemo\DelegateDemonstration\DelegateDemonstration\bin\Debug\DelegateDemonstration.exe
+D:\deligatesDemo\DelegateDemonstration\DelegateDemonstration\bin\Debug\DelegateDemonstration.pdb
+D:\deligatesDemo\DelegateDemonstration\DelegateDemonstration\obj\Debug\DelegateDemonstration.csproj.AssemblyReference.cache
+D:\deligatesDemo\DelegateDemonstration\DelegateDemonstration\obj\Debug\DelegateDemonstration.csproj.CoreCompileInputs.cache
+D:\deligatesDemo\DelegateDemonstration\DelegateDemonstration\obj\Debug\DelegateDemonstration.exe
+D:\deligatesDemo\DelegateDemonstration\DelegateDemonstration\obj\Debug\DelegateDemonstration.pdb
+D:\deligatesDemo\DelegateDemonstration\DelegateDemonstration\obj\Debug\DelegateDemonstration.exe.config

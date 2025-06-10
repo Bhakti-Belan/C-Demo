@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Collection\\collectionDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F08313-F238-4A88-B2C2-363E57C306E9}|collectionDemo\\collectionDemo.csproj|d:\\collection\\collectiondemo\\collectiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F08313-F238-4A88-B2C2-363E57C306E9}|collectionDemo\\collectionDemo.csproj|solutionrelative:collectiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F08313-F238-4A88-B2C2-363E57C306E9}|collectionDemo\\collectionDemo.csproj|d:\\collection\\collectiondemo\\collectiondemo\\dectionarydemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F08313-F238-4A88-B2C2-363E57C306E9}|collectionDemo\\collectionDemo.csproj|solutionrelative:collectiondemo\\dectionarydemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F08313-F238-4A88-B2C2-363E57C306E9}|collectionDemo\\collectionDemo.csproj|d:\\collection\\collectiondemo\\collectiondemo\\stackdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F08313-F238-4A88-B2C2-363E57C306E9}|collectionDemo\\collectionDemo.csproj|solutionrelative:collectiondemo\\stackdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DectionaryDemo.cs",
+              "DocumentMoniker": "D:\\Collection\\collectionDemo\\collectionDemo\\DectionaryDemo.cs",
+              "RelativeDocumentMoniker": "collectionDemo\\DectionaryDemo.cs",
+              "ToolTip": "D:\\Collection\\collectionDemo\\collectionDemo\\DectionaryDemo.cs",
+              "RelativeToolTip": "collectionDemo\\DectionaryDemo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T09:15:02.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StackDemo.cs",
+              "DocumentMoniker": "D:\\Collection\\collectionDemo\\collectionDemo\\StackDemo.cs",
+              "RelativeDocumentMoniker": "collectionDemo\\StackDemo.cs",
+              "ToolTip": "D:\\Collection\\collectionDemo\\collectionDemo\\StackDemo.cs",
+              "RelativeToolTip": "collectionDemo\\StackDemo.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T09:09:40.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Collection\\collectionDemo\\collectionDemo\\Program.cs",
+              "RelativeDocumentMoniker": "collectionDemo\\Program.cs",
+              "ToolTip": "D:\\Collection\\collectionDemo\\collectionDemo\\Program.cs",
+              "RelativeToolTip": "collectionDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T09:09:22.182Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

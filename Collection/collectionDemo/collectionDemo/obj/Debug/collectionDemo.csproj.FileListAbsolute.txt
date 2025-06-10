@@ -1,0 +1,8 @@
+D:\Collection\collectionDemo\collectionDemo\bin\Debug\collectionDemo.exe.config
+D:\Collection\collectionDemo\collectionDemo\bin\Debug\collectionDemo.exe
+D:\Collection\collectionDemo\collectionDemo\bin\Debug\collectionDemo.pdb
+D:\Collection\collectionDemo\collectionDemo\obj\Debug\collectionDemo.csproj.AssemblyReference.cache
+D:\Collection\collectionDemo\collectionDemo\obj\Debug\collectionDemo.csproj.CoreCompileInputs.cache
+D:\Collection\collectionDemo\collectionDemo\obj\Debug\collectionDemo.exe
+D:\Collection\collectionDemo\collectionDemo\obj\Debug\collectionDemo.pdb
+D:\Collection\collectionDemo\collectionDemo\obj\Debug\collectionDemo.exe.config
