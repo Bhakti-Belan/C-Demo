@@ -1,0 +1,13 @@
+﻿@model StudentCrudOpr.Models.User_UserProfile
+
+<form asp-action="Create" method="post">
+    <div>
+        <label asp-for="UserName"></label>
+        <input asp-for="UserName" />
+    </div>
+    <div>
+        <label asp-for="Bio"></label>
+        <input asp-for="Bio" />
+    </div>
+    <button type="submit">Save</button>
+</form>

@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+    <title>@ViewBag.Title</title>
+    <style>
+        html, body {
+            height: 100%;
+            margin: 0;
+            background-color: aliceblue;
+        }
+
+        .wrapper {
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+
+        main {
+            flex: 1;
+        }
+
+        footer {
+            background-color: darkgray;
+            text-align: center;
+            padding: 1rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="wrapper">
+        <header>
+            <ul class="nav nav-tabs">
+                <li class="nav-item">
+                    <a class="nav-link" asp-controller="Teachers" asp-action="Index">Add Teacher</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" asp-controller="Teachers" asp-action="Index">Update Teacher</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" asp-controller="Teachers" asp-action="Index">Delete Teacher</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" asp-controller="Teachers" asp-action="Index">Display Teacher</a>
+                </li>
+            </ul>
+        </header>
+        <main>
+            <div>
+                @RenderBody()
+            </div>
+        </main>
+
+        <footer>
+            All Rights Reserved At Teacher
+        </footer>
+        @RenderSection("Scripts", required: false)
+    </div>
+</body>
+</html>
