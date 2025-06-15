@@ -4,9 +4,9 @@ using StudentCrudOpr.Models;
 
 namespace StudentCrudOpr.Controllers
 {
-    public class UserController : Controller
+   public class UserController : Controller
     {
-        private readonly AppDBContext _context;
+   /*     private readonly AppDBContext _context;
 
         public UserController(AppDBContext context)
         {
@@ -146,7 +146,7 @@ namespace StudentCrudOpr.Controllers
             }
 
             return View(user);
-        }
+        }*/
 
 
     }

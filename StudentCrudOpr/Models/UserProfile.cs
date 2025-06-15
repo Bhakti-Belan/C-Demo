@@ -1,9 +1,14 @@
-﻿namespace StudentCrudOpr.Models
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
+namespace StudentCrudOpr.Models
 {
     public class UserProfile
     {
-        public int UserProfileId { get; set; }
-        public string Bio { get; set; }
+        [Key] public int Id { get; set; }
+        public String FullName { get; set; }
+        public int Age {  get; set; }
+        [ForeignKey("User")]
         public int UserId { get; set; }
         public virtual User user { get; set; }
     }
