@@ -1,0 +1,10 @@
+D:\WebApiDemo\obj\Debug\net8.0\WebApiDemo.csproj.AssemblyReference.cache
+D:\WebApiDemo\obj\Debug\net8.0\WebApiDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebApiDemo\obj\Debug\net8.0\WebApiDemo.AssemblyInfoInputs.cache
+D:\WebApiDemo\obj\Debug\net8.0\WebApiDemo.AssemblyInfo.cs
+D:\WebApiDemo\obj\Debug\net8.0\WebApiDemo.csproj.CoreCompileInputs.cache
+D:\WebApiDemo\obj\Debug\net8.0\WebApiDemo.MvcApplicationPartsAssemblyInfo.cs
+D:\WebApiDemo\obj\Debug\net8.0\WebApiDemo.MvcApplicationPartsAssemblyInfo.cache
+D:\WebApiDemo\obj\Debug\net8.0\WebApiDemo.dll
+D:\WebApiDemo\obj\Debug\net8.0\refint\WebApiDemo.dll
+D:\WebApiDemo\obj\Debug\net8.0\WebApiDemo.pdb
